@@ -16,7 +16,7 @@ En estos roles, desarrollé habilidades clave en:
 
 Estas competencias, junto con mi interés en la tecnología, me llevaron a explorar soluciones tecnológicas, lo que motivó mi especialización en el desarrollo de software.  
 
-🎯 Actualmente, me estoy preparando para la certificación **IZ0-811 de Oracle** enfocada en los fundamentos de **Java**. Mi objetivo es aplicar mi experiencia previa para conectar la gestión empresarial con soluciones tecnológicas innovadoras y eficientes.  
+🎯 Actualmente, estoy enfocado en adquirir un conocimiento integral sobre las tecnologías clave del ecosistema Java, incluyendo programación orientada a objetos, estructuras de datos, algoritmos y el desarrollo de aplicaciones escalables. También estoy profundizando en frameworks como Spring Boot y sus derivados, para construir soluciones robustas y seguras que cumplan con los estándares de la ingeniería de software moderna.  
 
 🚀 Estoy buscando oportunidades donde pueda combinar mis habilidades en gestión y desarrollo de software para generar impacto real y contribuir al éxito de proyectos tecnológicos.
 
@@ -28,7 +28,13 @@ Estas competencias, junto con mi interés en la tecnología, me llevaron a explo
 
 - 🎓 **Formación Académica**: Estudiante de Ingeniería en Software.
 - 💻 **Especialización**: Desarrollo en Java y preparación para la certificación IZ0-811.
-- 🧠 **Intereses**: Algoritmos, estructuras de datos y resolución de problemas complejos.
+- 🧠 **Intereses**:
+  - Programación orientada a objetos (OOP) en Java
+  - Frameworks Java: Spring Boot, Hibernate, Spring Security
+  - Algoritmos y estructuras de datos
+  - Desarrollo de APIs RESTful con Java
+  - Testing y pruebas unitarias en Java (JUnit, Mockito)
+  - Integración continua y entrega continua (CI/CD) en entornos Java.
 - 🌐 **Plataformas de Práctica**: [LeetCode](https://leetcode.com/sergio30) para mejorar mis habilidades en algoritmos y estructuras de datos.
 
 ---
