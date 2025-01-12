@@ -34,7 +34,6 @@ Estas competencias, junto con mi interés en la tecnología, me llevaron a explo
   - Desarrollo de APIs RESTful con Java
   - Testing y pruebas unitarias en Java (JUnit, Mockito)
   - Integración continua y entrega continua (CI/CD) en entornos Java.
-- 🌐 **Plataformas de Práctica**: [LeetCode](https://leetcode.com/sergio30) para mejorar mis habilidades en algoritmos y estructuras de datos.
 
 ---
 
@@ -52,7 +51,7 @@ Estas competencias, junto con mi interés en la tecnología, me llevaron a explo
 
 ## 🌱 En Constante Aprendizaje
 
-- Profundizando en algoritmos avanzados y estructuras de datos.
+- Profundizando en spring y sus derivados.
 - Explorando nuevas tecnologías y metodologías de desarrollo.
 
 ---
