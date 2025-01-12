@@ -27,7 +27,6 @@ Estas competencias, junto con mi interés en la tecnología, me llevaron a explo
 ## 🚀 Sobre mí
 
 - 🎓 **Formación Académica**: Estudiante de Ingeniería en Software.
-- 💻 **Especialización**: Desarrollo en Java y preparación para la certificación IZ0-811.
 - 🧠 **Intereses**:
   - Programación orientada a objetos (OOP) en Java
   - Frameworks Java: Spring Boot, Hibernate, Spring Security
