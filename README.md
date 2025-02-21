@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Sergio Cabrera
 
-Estudiante de Ingeniería de Software con interés en la programación orientada a objetos y el desarrollo con frameworks como Spring Boot, Hibernate y Spring Security. Enfocado en crear APIs RESTful, realizar pruebas unitarias con JUnit y Mockito, e implementar prácticas de CI/CD en entornos Java. Comprometido con el aprendizaje constante en el ecosistema Java.
+Actualmente estoy cursando ingeniería en software, donde me he sumergido en el mundo de la programación, el desarrollo de aplicaciones y la innovación tecnológica. Mi objetivo es convertirme en un profesional altamente competente en el campo de la tecnología, contribuyendo a la creación de soluciones innovadoras y mejorando la vida de las personas a través de la tecnología.
 
 ---
 
