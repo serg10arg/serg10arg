@@ -19,14 +19,9 @@ Actualmente estoy cursando ingeniería en software, donde me he sumergido en el 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=spring-security&logoColor=white)
 
 ### Herramientas de Desarrollo:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
-
-### Otras Herramientas:
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
