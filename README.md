@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy Sergio Cabrera
 
-Actualmente estoy cursando ingeniería en software, donde me he sumergido en el mundo de la programación, el desarrollo de aplicaciones y la innovación tecnológica. Mi objetivo es convertirme en un profesional altamente competente en el campo de la tecnología, contribuyendo a la creación de soluciones innovadoras y mejorando la vida de las personas a través de la tecnología.
+Actualmente, estoy cursando Ingeniería en Software, donde he adquirido experiencia en desarrollo de aplicaciones web. Disfruto cada etapa del proceso, motivándome a enfrentar desafíos que me impulsen a salir de mi zona de confort.
+Aspiro a consolidarme como un profesional en el rubro IT, contribuyendo al desarrollo de software para crear y lograr soluciones que mejoren la vida de las personas. Siempre estoy en búsqueda de oportunidades para aprender, crecer y aportar valor en proyectos desafiantes.
 
 ---
 
