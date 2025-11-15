@@ -1,14 +1,12 @@
 # ¡Hola! 👋 Soy Sergio Cabrera
 
-Actualmente, estoy cursando Ingeniería en Software, donde he adquirido experiencia en desarrollo de aplicaciones web. Disfruto cada etapa del proceso, motivándome a enfrentar desafíos que me impulsen a salir de mi zona de confort.
-Aspiro a consolidarme como un profesional en el rubro IT, contribuyendo al desarrollo de software para crear y lograr soluciones que mejoren la vida de las personas. Siempre estoy en búsqueda de oportunidades para aprender, crecer y aportar valor en proyectos desafiantes.
+Desarrollador Java Backend Junior con una base sólida en Java 17+, Spring Boot y principios SOLID para la creación de APIs RESTful. Cuento con experiencia práctica en entornos Ágiles (Scrum) y un fuerte enfoque en la calidad del código mediante tests unitarios (JUnit). Soy un profesional proactivo y con gran curiosidad, evidenciada en proyectos personales con Docker y un entendimiento conceptual de Kafka y Spring Cloud. Busco unirme a un equipo de ingeniería de vanguardia para crecer profesionalmente y contribuir al desarrollo de arquitecturas de microservicios complejas.
 
 ---
 
 ### 🌟 Estadísticas de GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serg10arg&show_icons=true&theme=github_dark)](https://github.com/serg10arg)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=serg10arg&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 🛠️ Tecnologías
