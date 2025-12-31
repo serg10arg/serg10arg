@@ -1,10 +1,18 @@
 # ¡Hola! 👋 Soy Sergio Cabrera
 
-Desarrollador Java Backend Junior y estudiante avanzado de Ingeniería de Software. Me gusta pensar que mi trabajo es hacer que las cosas complejas parezcan simples para el usuario final.
+Como estudiante avanzado de Ingeniería de Software y Java Developer, mi obsesión no es solo escribir código, sino diseñar arquitecturas escalables.
 
-Mi día a día se mueve entre clases y código. He encontrado en Java y el ecosistema Spring Boot las herramientas perfectas para construir servicios resilientes. Disfruto diseñando REST APIs limpias, estructurando bases de datos con SQL y colaborando en proyectos usando Git para mantener todo ordenado.
+Mi enfoque está en el Backend moderno: transformar lógica de negocio compleja en APIs REST eficientes y seguras. No solo 'escribo clases', construyo sistemas distribuidos.
 
-No busco reinventar la rueda, sino hacerla girar mejor. Estoy listo para sumarme a un proyecto desafiante, aprender de seniors y aportar mis ganas de resolver problemas desde el minuto uno.
+Lo que aporto a la mesa: 
+
+🚀 Ingeniería Sólida: Dominio de Java y el ecosistema Spring (Boot, Cloud, Security) para crear microservicios resilientes. 
+
+🛠 Mentalidad DevOps: Experiencia práctica contenerizando aplicaciones con Docker y orquestando con Kubernetes. 
+
+🧠 Fundamentos: Bases sólidas en SQL, estructuras de datos y algoritmos.
+
+Busco un equipo donde pueda traducir mi pasión por la arquitectura de software en soluciones de producción confiables.
 
 ---
 
