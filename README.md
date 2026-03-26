@@ -1,18 +1,15 @@
 # ¡Hola! 👋 Soy Sergio Cabrera
 
-Como estudiante avanzado de Ingeniería de Software y Java Developer, mi obsesión no es solo escribir código, sino diseñar arquitecturas escalables.
+Mi obsesión no es solo escribir código, sino diseñar arquitecturas que no colapsen en producción.
+Como Software Engineer especializado en el ecosistema Java, me enfoco en el desarrollo Backend moderno: transformar reglas de negocio complejas en APIs REST eficientes, seguras y escalables. 
 
-Mi enfoque está en el Backend moderno: transformar lógica de negocio compleja en APIs REST eficientes y seguras. No solo 'escribo clases', construyo sistemas distribuidos.
+Lo que aporto al equipo: 
 
-Lo que aporto a la mesa: 
+🔸Ingeniería Backend: Dominio de Java y el ecosistema Spring (Boot, Cloud, Security) para orquestar microservicios que toleren fallos. 
+🔸Cultura Cloud-Native & DevOps: Experiencia práctica contenerizando aplicaciones con Docker y gestionando despliegues en Kubernetes. 
+🔸Arquitectura y Fundamentos: Aplicación estricta de principios SOLID, diseño de bases de datos relacionales (SQL) y patrones de sistemas distribuidos.
 
-🚀 Ingeniería Sólida: Dominio de Java y el ecosistema Spring (Boot, Cloud, Security) para crear microservicios resilientes. 
-
-🛠 Mentalidad DevOps: Experiencia práctica contenerizando aplicaciones con Docker y orquestando con Kubernetes. 
-
-🧠 Fundamentos: Bases sólidas en SQL, estructuras de datos y algoritmos.
-
-Busco un equipo donde pueda traducir mi pasión por la arquitectura de software en soluciones de producción confiables.
+Actualmente finalizando mis estudios en Ingeniería de Software, busco un equipo donde pueda traducir mi capacidad analítica en soluciones reales y confiables.
 
 ---
 
